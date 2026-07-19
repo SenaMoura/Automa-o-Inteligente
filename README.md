@@ -8,5 +8,7 @@ Código feito em python com o objetivo de rastrear os preços de e-commerces, id
 (3) Coloque o seu email para que ele receba mensagens dos produtos que vc deseja comprar com descontos.
 (4) Mude a frequência de checagem de preços no While True. 
 
+Antes de começar a fazer esses processos, baixe o zip  aperte com o botão direito do mouse no arquivo, e vai na opção descompactar arquivos. 
+
 
 
